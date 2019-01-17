@@ -1,5 +1,8 @@
 _repo: Sunny-San_58699
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58699-h/images/i_cover.png
 creator:
   author:
     agent_name: Eaton, Winnifred
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '49587'
     url: http://www.gutenberg.org/2009/agents/49587
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58699#Sunny-San
 gutenberg_issued: '2019-01-15'
 gutenberg_type: Text
 identifiers:
